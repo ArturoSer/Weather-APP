@@ -1,0 +1,43 @@
+* {
+    margin: 0%;
+    flex: auto;
+}
+
+.card {
+    background-color: blue;
+    color: white;
+}
+
+header{
+    background: linear-gradient(red);
+}
+
+.five-day {
+    display: flex;
+    margin: 0%;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+
+.h5 {
+    display: flex;
+    object-fit: contain;
+    object-position: 0%;
+}
+
+.btn {
+    align-items: flex-end;
+}
+
+.row {
+    display: flex;
+    margin-left: 0px;
+    margin-right: 0px;
+    flex-wrap: wrap;
+    margin-top: 4px;
+
+}
+
+.city-info {
+    background-color: aquamarine;
+}
